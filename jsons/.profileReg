@@ -1,0 +1,29 @@
+registration
+
+{
+    "login": "89224747505",
+    "password":"BAST8495",
+    "email":"89224747505@mail.ru",
+    "name":"Иван",
+    "status":"женат",
+    "lookingForAJob":"true",
+    "lookingForAJobDescription":"Очень сильно ищу работёнку",
+    "fullName":"Зырянов Иван Валерьевич",
+    "contacts":{
+        "github":"null",
+        "vk":"null",
+        "facebook":"null",
+        "instagram":"null",
+        "twitter":"null",
+        "website":"null",
+        "youtube":"null",
+        "mainLink":"null"
+    }
+}
+
+status
+
+{
+    "id":"10",
+    "status":"не хочу"
+}
